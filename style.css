@@ -1,0 +1,44 @@
+header{
+    background-color:#E8F0F6;
+    color: #39A2DB;
+    text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
+
+}
+
+
+section{
+
+    font-family: sans-serif;
+    padding: 30px;
+    border-color: skyblue;
+    margin-left: 50px;
+}
+form{
+
+    font-family: sans-serif;
+    padding: 30px;
+    border: 1px dashed black;
+margin-left: 50px;
+}
+
+
+
+form label{
+    
+    font-weight: bold;
+}
+
+form input{
+
+    width: 150px;
+    border-radius: 20%;
+}
+
+form select{
+
+    width: 220px;
+    border-radius: 20%;
+
+}
